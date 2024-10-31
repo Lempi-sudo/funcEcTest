@@ -1,3 +1,3 @@
-module github.com/Lempi-sudo/Eco-Function-Test
+module github.com/Lempi-sudo/funcEcTest
 
 go 1.21.1
