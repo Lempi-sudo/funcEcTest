@@ -7,5 +7,5 @@ func PresentValue(futureValue float64, rate float64, periods int) float64 {
 
 // PresentValue calculates the present value of a future amount
 func Version() string {
-	return "2.0"
+	return "3.0"
 }
